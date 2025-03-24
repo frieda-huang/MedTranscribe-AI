@@ -1,10 +1,10 @@
 import { streamText } from 'ai';
-import { getOllamaModel } from '@/lib/ai/ollama';
 import { ChatRequest } from '@/types/chat';
 import { MessageRole } from '@/lib/repository/dto';
 import { chatRepository } from '@/lib/repository/implementations/chat-repository';
 import { SYSTEM_PROMPT } from '@/lib/ai/prompts';
 import { getTextContent } from '@/lib/utils';
+import { google } from '@ai-sdk/google';
 import {
     enhancePromptWithMemories,
     storeCriticalMessages,
@@ -186,7 +186,7 @@ async function handleLLMResponse(
 ): Promise<Response> {
     const augmentedMessages = await augmentMessagesWithMemory(messages);
     const result = streamText({
-        model: getOllamaModel(model),
+        model: google('gemini-1.5-pro-latest'),
         system: SYSTEM_PROMPT,
         messages: augmentedMessages,
     });

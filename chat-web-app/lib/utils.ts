@@ -1,6 +1,6 @@
 import { clsx, type ClassValue } from 'clsx';
 import { twMerge } from 'tailwind-merge';
-import { getOllamaModel } from '@/lib/ai/ollama';
+import { google } from '@ai-sdk/google';
 import { EXTRACT_PATIENT_INFO_PROMPT } from '@/lib/ai/prompts';
 import { generateText } from 'ai';
 
@@ -28,7 +28,7 @@ export async function extractPatientInfoFromTranscript(
     try {
         const transcriptExcerpt = content.substring(0, 2000);
         const { text } = await generateText({
-            model: getOllamaModel('gemma3:latest'),
+            model: google('gemini-1.5-pro-latest'),
             system: EXTRACT_PATIENT_INFO_PROMPT,
             prompt: transcriptExcerpt,
         });

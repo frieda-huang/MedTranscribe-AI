@@ -13,7 +13,7 @@ A chat interface that enables healthcare providers to interact with medical tran
 
 ## Tech Stack
 
--   **LLM**: [Ollama](https://ollama.com/) with Gemma3 and deepseek-r1:8b models
+-   **LLM**: [Ollama](https://ollama.com/) with Gemma3 and deepseek-r1:8b models if you want to run locally; otherwise, it's using Google's gemini-1.5-pro-latest by default
 -   **Memory**: mem0 for persistent memory across conversations
 -   **Frontend**: Next.js with TypeScript
 -   **Backend**: Vercel AI SDK, Prisma ORM
