@@ -1,7 +1,7 @@
 # MedTranscribe AI
 
 ![UI](./chat-web-app/public/img2.png)
-
+[Visit the demo site](https://med-transcribe-git-main-friedas-projects.vercel.app)
 A chat interface that enables healthcare providers to interact with medical transcripts, extract patient information, and conduct intelligent follow-up conversations with context-aware responses.
 
 ## Features
