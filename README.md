@@ -55,6 +55,7 @@ Copy `.env.example` to `.env` and fill in:
 DATABASE_URL=postgresql://username:password@hostname:port/database
 MEM0_API_KEY=your_mem0_api_key
 OLLAMA_API_URL=http://localhost:11434
+GOOGLE_GENERATIVE_AI_API_KEY=
 ```
 
 ### 3. Install Dependencies & Start Server
