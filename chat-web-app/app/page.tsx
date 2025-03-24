@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import { useChat, type UseChatOptions } from '@ai-sdk/react';
+import { useChat } from '@ai-sdk/react';
 
 import { Chat } from '@/components/ui/chat';
 import {
@@ -17,11 +17,7 @@ const MODELS = [
     { id: 'deepseek-r1:8b', name: 'Deepseek R1 8B' },
 ];
 
-type ChatDemoProps = {
-    initialMessages?: UseChatOptions['initialMessages'];
-};
-
-export default function ChatDemo(props: ChatDemoProps) {
+export default function Home() {
     const initialSessionId =
         typeof window !== 'undefined'
             ? localStorage.getItem('chatSessionId')
@@ -47,7 +43,6 @@ export default function ChatDemo(props: ChatDemoProps) {
         status,
         setMessages,
     } = useChat({
-        ...props,
         body: {
             model: selectedModel,
             sessionId: sessionId,
