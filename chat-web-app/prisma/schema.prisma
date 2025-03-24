@@ -1,0 +1,106 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id           String        @id @default(cuid())
+  email        String        @unique
+  name         String?
+  role         UserRole      @default(PROVIDER)
+  createdAt    DateTime      @default(now())
+  updatedAt    DateTime      @updatedAt
+  chatSessions ChatSession[]
+  transcripts  Transcript[]
+}
+
+model Patient {
+  id          String       @id @default(cuid())
+  name        String
+  dateOfBirth DateTime?
+  medicalId   String?      @unique
+  createdAt   DateTime     @default(now())
+  updatedAt   DateTime     @updatedAt
+  transcripts Transcript[]
+}
+
+model Transcript {
+  id                   String                @id @default(cuid())
+  title                String
+  content              String
+  recordingDate        DateTime              @default(now())
+  createdAt            DateTime              @default(now())
+  updatedAt            DateTime              @updatedAt
+  patientId            String
+  providerId           String
+  primaryForSessions   ChatSession[]         @relation("PrimaryTranscript")
+  patient              Patient               @relation(fields: [patientId], references: [id])
+  provider             User                  @relation(fields: [providerId], references: [id])
+  referencedBySessions TranscriptReference[]
+
+  @@index([patientId])
+  @@index([providerId])
+}
+
+model ChatSession {
+  id                    String                @id @default(cuid())
+  title                 String?
+  createdAt             DateTime              @default(now())
+  updatedAt             DateTime              @updatedAt
+  userId                String
+  primaryTranscriptId   String?
+  messages              ChatMessage[]
+  primaryTranscript     Transcript?           @relation("PrimaryTranscript", fields: [primaryTranscriptId], references: [id])
+  user                  User                  @relation(fields: [userId], references: [id])
+  referencedTranscripts TranscriptReference[]
+
+  @@index([primaryTranscriptId])
+  @@index([userId])
+}
+
+model FileAttachment {
+  id          String      @id @default(cuid())
+  name        String
+  content     String
+  contentType String
+  messageId   String
+  createdAt   DateTime    @default(now())
+  message     ChatMessage @relation(fields: [messageId], references: [id])
+
+  @@index([messageId])
+}
+
+model TranscriptReference {
+  id            String      @id @default(cuid())
+  transcriptId  String
+  chatSessionId String
+  addedAt       DateTime    @default(now())
+  chatSession   ChatSession @relation(fields: [chatSessionId], references: [id])
+  transcript    Transcript  @relation(fields: [transcriptId], references: [id])
+}
+
+model ChatMessage {
+  id             String           @id @default(cuid())
+  content        String
+  role           MessageRole
+  createdAt      DateTime         @default(now())
+  sessionId      String
+  session        ChatSession      @relation(fields: [sessionId], references: [id])
+  FileAttachment FileAttachment[]
+
+  @@index([sessionId])
+}
+
+enum UserRole {
+  ADMIN
+  PROVIDER
+}
+
+enum MessageRole {
+  USER
+  ASSISTANT
+}

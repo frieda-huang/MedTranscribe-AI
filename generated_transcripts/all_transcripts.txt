@@ -1,0 +1,297 @@
+
+================================================================================
+PATIENT ID: P1000
+================================================================================
+
+Doctor: “Good morning, Mr. Davies. Please, have a seat. It’s good to finally meet you. I’m Dr. Eleanor Vance. I understand you’ve been referred to me by Dr. Sharma.”
+
+Patient: “Morning, Dr. Vance. Yes, that’s right. Thanks for seeing me.”
+
+Doctor: “Let’s start with a brief overview. Can you tell me a little bit about what’s brought you in today?”
+
+Patient: “Well, to be honest, it’s been a pretty rough few months. I’ve been feeling… just generally down, you know? Like a persistent low-level sadness. It’s not crippling, but it’s definitely there. And I’ve been having trouble sleeping. It’s not insomnia exactly, just… difficulty falling asleep and staying asleep.”
+
+Doctor: “Okay. And how long has this been going on?”
+
+Patient: “Probably about six weeks, maybe a little longer. It started gradually, but it’s definitely intensified recently.”
+
+Doctor: “Let’s talk about your medical history. I see here you have a record of Asthma, Allergic Rhinitis, and a Urinary Tract Infection. Can you tell me a bit more about those?”
+
+Patient: “Yeah, the Asthma, I’ve had that since I was a kid. I use a blue reliever inhaler – Salbutamol – when I need it, usually for exercise or if I’m feeling a bit wheezy. I’ve had a couple of flare-ups in the past, but nothing serious. The Allergic Rhinitis, that’s just seasonal allergies, mostly pollen. I take Loratadine as needed. And the UTI… that was a couple of months ago. It was pretty unpleasant, but it’s resolved now.”
+
+Doctor: “Okay, that’s helpful. Are you currently taking any other medications, including over-the-counter medications or supplements?”
+
+Patient: “Just the Loratadine when my allergies are bad. And I take a multivitamin, just generally.”
+
+Doctor: “Alright. Now, let’s delve into your current symptoms in more detail. You mentioned feeling down. Can you describe that feeling a little more specifically? Is it anxiety, depression, or something else?”
+
+Patient: “It’s hard to say. It’s not panic attacks or anything like that. It’s more of a persistent feeling of hopelessness, like things aren’t going to get better. I’ve lost interest in things I used to enjoy – reading, going for walks… I just don’t feel motivated. And I’ve been withdrawing from my friends. I used to be quite social, but now I just want to be alone.”
+
+Doctor: “And you’ve been experiencing difficulty sleeping. Can you describe the sleep issues? Are you tossing and turning, having racing thoughts, or something else?”
+
+Patient: “Mostly tossing and turning. I lie there for ages before I eventually fall asleep, and then I wake up a couple of times during the night. My mind just keeps racing. I’m thinking about work, about my relationships… everything.”
+
+Doctor: “Okay. I’m going to conduct a brief physical examination. Please lie down on the examination table.”
+
+(After a brief examination, including checking vital signs and a general physical assessment)
+
+Doctor: “Your blood pressure is slightly elevated, 135/85. Your heart rate is within normal limits. Your lungs sound clear, although I noted some mild wheezing, which is consistent with your asthma. I’m also noting some mild redness in your nasal passages, potentially related to your allergic rhinitis. Now, let’s discuss a possible diagnosis. Based on your symptoms – the persistent low mood, the sleep disturbance, and the lack of motivation – it’s likely you’re experiencing symptoms of depression. Given your history of asthma and allergies, it’s important to rule out any physiological factors contributing to your symptoms. However, the psychological component seems significant.”
+
+Patient: “So, what does that mean? What can we do about it?”
+
+Doctor: “It means we’ll need to address both the psychological and potentially the physiological aspects. I’m going to recommend we start with a course of Sertraline, an SSRI antidepressant. We’ll begin with a low dose of 25mg once daily, taken in the evening. We’ll monitor your response closely and adjust the dosage as needed. We’ll also explore some cognitive behavioral therapy (CBT) techniques to help you manage your thoughts and behaviors. Given your asthma, I’ll prescribe a rescue inhaler – Salbutamol – to have on hand if you experience any worsening of your respiratory symptoms. I’ll also recommend a nasal steroid spray, Fluticasone, to help manage your allergic rhinitis.”
+
+Patient: “That sounds… a lot.”
+
+Doctor: “It is, but it’s a comprehensive approach. We’ll start slowly and build from there. It’s important to remember that depression is a treatable condition, and with the right support, you can definitely feel better. I’ll also want to discuss lifestyle factors – diet, exercise, and social connections – as these can significantly impact your mood. We’ll schedule a follow-up appointment in two weeks to assess your progress and adjust the treatment plan if necessary. In the meantime, please keep a mood diary to track your symptoms and any changes you notice. And please don’t hesitate to contact the office if you have any questions or concerns.”
+
+Patient: “Okay. That makes sense. Thank you, Dr. Vance.”
+
+Doctor: “You’re welcome, Mr. Davies. Remember, you’re not alone in this. We’re here to support you every step of the way.”
+
+
+
+================================================================================
+PATIENT ID: P1001
+================================================================================
+
+Doctor: “Good morning, Mr. Davies. Please, have a seat. I’m Dr. Ramirez. It’s good to finally meet you. I have your file here – Patient ID: P1001. Can you confirm your date of birth for me?”
+
+Patient: “Yes, it’s the 14th of March, 1996.”
+
+Doctor: “Perfect. So, Mr. Davies, you’re here today regarding some concerning skin changes you’ve been noticing. Can you tell me a little bit about what’s been going on?”
+
+Patient: “Well, it started about six weeks ago. I first noticed a small, itchy patch on my left forearm. I thought it was just a bug bite at first, but it just kept spreading. Now it’s all over my arms and legs, and it’s really starting to bother me. It’s incredibly itchy, especially at night.”
+
+Doctor: “Okay. And you mentioned it’s spreading. Can you describe the appearance of the patches themselves? What color are they? Are they raised, flat, scaly, or anything like that?”
+
+Patient: “They’re mostly red, and they’re a bit raised, like little bumps. Sometimes they’re covered in a fine, silvery scale. It looks… kind of like eczema, I think.”
+
+Doctor: “Alright. Let’s talk about your medical history. I see here you have a history of hypertension. Are you currently taking any medications for that?”
+
+Patient: “Yes, I take Lisinopril, 10mg, once a day. And I’m generally pretty careful about my diet and exercise to keep it under control.”
+
+Doctor: “Good. That’s helpful to know. Any other medications you’re taking, or any allergies I should be aware of?”
+
+Patient: “Just a mild allergy to penicillin – causes a rash, nothing too serious. And I’m not taking anything else regularly.”
+
+Doctor: “Okay. And have you had any similar skin issues in the past? Any diagnoses of eczema, psoriasis, or anything else?”
+
+Patient: “No, never. This is completely new to me.”
+
+Doctor: “Right. Let’s take a look. Please, just relax your arm. (Doctor examines the patient’s arms and legs, palpating the affected areas). Okay, I’m seeing a significant number of erythematous, papulonodular lesions, as you described. There’s definitely scaling present, and I’m noting some mild lichenification – that’s just a slight thickening of the skin due to chronic rubbing or scratching. The distribution appears to be symmetrical, which is somewhat typical of allergic contact dermatitis, but we need to rule out other possibilities. I’m also noting some mild edema around the lesions, which could be related to the inflammation.”
+
+Patient: “It really stings when I touch them.”
+
+Doctor: “I understand. The itching and stinging are common. I’m going to perform a patch test to help us identify any potential allergens. We’ll use a standard series of allergens – fragrances, preservatives, metals, and common irritants. This will take about 48-72 hours to complete.”
+
+Patient: “Okay.”
+
+Doctor: “Based on my initial examination, I suspect this is likely allergic contact dermatitis, possibly triggered by something you’ve come into contact with. However, given the symmetrical distribution and the edema, we need to rule out other conditions like psoriasis or even a drug eruption. The patch test will be crucial. I’m also going to order a Wood’s lamp examination – that uses ultraviolet light to highlight certain fungal infections or other abnormalities.”
+
+Patient: “What’s a Wood’s lamp examination?”
+
+Doctor: “It’s a simple test where we shine a special light on your skin. It can help us identify certain conditions that aren’t always visible to the naked eye. It’s a quick and painless procedure.”
+
+Patient: “Okay.”
+
+Doctor: “I’m going to prescribe a topical corticosteroid cream – clobetasol propionate 0.05% cream. We’ll start with twice daily application to the affected areas. This will help reduce the inflammation and itching. It’s important not to scratch the lesions, as that can worsen the condition and potentially lead to infection. I’ll also recommend an antihistamine – cetirizine 10mg, to be taken once daily to help manage the itching, particularly at night.  It’s important to note that clobetasol is a potent steroid, so we’ll monitor the response closely. If we don’t see improvement within two weeks, we’ll need to consider other treatment options.”
+
+Patient: “Will it cause any side effects?”
+
+Doctor: “Possible side effects with clobetasol include thinning of the skin, particularly with prolonged use. We’ll be monitoring for that. It’s also important to avoid applying it to broken skin.  Let’s discuss your skincare routine. Avoid harsh soaps, detergents, and fragrances. Opt for gentle, hypoallergenic cleansers. Keeping the area moisturized with a fragrance-free emollient is also important.”
+
+Patient: “Okay, I can do that.”
+
+Doctor: “I’m going to schedule a follow-up appointment in two weeks to assess your response to the treatment and review the results of the patch test. In the meantime, please keep a detailed record of your symptoms – when the itching is worst, what seems to trigger it, and how the lesions are changing.  Do you have any questions for me at this point?”
+
+Patient: “Just one. How long will it take to fully clear up?”
+
+Doctor: “That’s a difficult question to answer precisely. With appropriate treatment and diligent adherence to the skincare recommendations, most cases of allergic contact dermatitis resolve within 4-6 weeks. However, individual responses vary. We’ll be monitoring your progress closely. I’ll send you a copy of the prescription and the skincare instructions. Please call the office if you experience any significant worsening of your symptoms or if you have any concerns before your follow-up appointment.”
+
+Patient: “Thank you, Dr. Ramirez.”
+
+Doctor: “You’re welcome, Mr. Davies. Let’s hope we can get this under control quickly. I’ll see you in two weeks.”
+
+
+
+================================================================================
+PATIENT ID: P1002
+================================================================================
+
+Doctor: Good morning, Mr. Davies. Please, have a seat. It’s good to finally meet you. I’m Dr. Ramirez.
+
+Patient: Good morning, Dr. Ramirez. Thanks for seeing me.
+
+Doctor: So, let’s start with a quick overview. I have your records here, but I want to hear it from you. Can you tell me a little bit about yourself and what brings you in today?
+
+Patient: Well, honestly, I’ve been feeling…off, for the past few months. It started with just feeling really tired, but it’s gotten worse. And I’ve been having some chest discomfort, particularly with exertion. It’s not excruciating, but it’s definitely noticeable.
+
+Doctor: Okay. And you mentioned chest discomfort. Can you describe that in more detail? What does it feel like? Where exactly do you feel it?
+
+Patient: It’s mostly in the center of my chest, like a tightness. It comes and goes, and it seems to be worse when I’m walking or climbing stairs. Sometimes it’s just a dull ache, other times it feels like pressure. It’s not accompanied by any pain, thankfully.
+
+Doctor: Alright. Let’s talk about your medical history. I see here you’ve been diagnosed with Type 2 Diabetes, Depression, and Anxiety. Can you tell me a little more about how these conditions are impacting you?
+
+Patient: The diabetes… I’m managing it with Metformin, but I’ve been struggling to stick to my diet. It’s hard, you know? And the depression… it’s been pretty persistent. I’ve been seeing a therapist, but it’s a slow process. The anxiety is always there, a low-level hum, and it seems to amplify the other symptoms.
+
+Doctor: I appreciate you being so open about that. Let’s delve into your medications. You’re currently taking Metformin 500mg twice daily, correct? And you’re seeing a therapist – can you tell me who you’re seeing?
+
+Patient: Yes, that’s right. And I’m seeing Dr. Lee.
+
+Doctor: Good. And are you taking any other medications, including for your anxiety?
+
+Patient: Just a small dose of Sertraline, 25mg, once a day.
+
+Doctor: Okay. And do you have any allergies to medications or anything else?
+
+Patient: No known allergies.
+
+Doctor: Excellent. Now, let’s talk about your symptoms in more detail. You mentioned fatigue, chest discomfort, and anxiety. On a scale of 1 to 10, with 1 being minimal and 10 being the worst you’ve ever felt, how would you rate your overall discomfort level today?
+
+Patient: Probably a 6, I’d say. It’s not constant, but when it’s there, it’s definitely noticeable.
+
+Doctor: Okay. Let’s perform a physical examination. I’m going to check your blood pressure, pulse, and listen to your heart and lungs. Please lie down on the examination table.
+
+(After Examination - Doctor’s Notes: BP 140/90, HR 88 bpm, regular rhythm. Lungs clear. Heart sounds normal, no murmurs or rubs detected. Mild edema noted in ankles.)
+
+Doctor: Alright, Mr. Davies. Your blood pressure is slightly elevated, which we’ll need to monitor. Your heart sounds are normal, but the elevated blood pressure is concerning, especially given your symptoms. Given your chest discomfort and the possibility of cardiac involvement, we need to investigate further. I’m ordering an ECG, a cardiac enzyme panel, and a chest X-ray. We’ll also need to schedule a stress test to assess your heart’s response to exertion.
+
+Patient: Okay, that sounds…intense.
+
+Doctor: It’s a standard approach to rule out any serious cardiac issues. The ECG will help us look for any abnormalities in your heart’s electrical activity. The cardiac enzyme panel will check for signs of heart damage. And the chest X-ray will help us visualize your heart and lungs. The stress test will give us a better understanding of how your heart functions under pressure.
+
+Patient: What if it *is* something serious?
+
+Doctor: That’s a valid concern. We’ll address it as it comes. We’ll run all the tests, and we’ll have a clear picture. In the meantime, I want to advise you to avoid strenuous activity. We’ll also discuss lifestyle modifications – diet, exercise, and stress management – which are crucial for managing your diabetes, anxiety, and overall health.
+
+Patient: I know, I know. It’s just… overwhelming.
+
+Doctor: I understand. Let’s talk about a potential treatment plan, assuming the initial tests are negative for a major cardiac issue. If we find evidence of coronary artery disease, we’ll discuss interventions like medication or potentially a procedure. However, let’s start with a conservative approach. I’m going to prescribe a low dose of Lisinopril, 10mg, once daily, to help manage your blood pressure. We’ll also continue your Sertraline at 25mg.  I want to emphasize the importance of consistent blood glucose monitoring and adherence to your diabetic diet.
+
+Patient: Okay.
+
+Doctor: I’m also going to refer you back to Dr. Lee, and strongly encourage you to discuss how your anxiety is impacting your overall health and adherence to your treatment plan.  It’s important to address the psychological component alongside the physical.  Finally, I want to give you some education about your condition.  Your symptoms could be related to angina, but it could also be exacerbated by your anxiety.  We need to rule out the cardiac causes first.  We’ll schedule a follow-up appointment in two weeks to review the test results and discuss a more tailored treatment plan. Please keep a detailed log of your symptoms, including timing, severity, and any potential triggers.
+
+Patient: Okay, I can do that. Thank you, Dr. Ramirez.
+
+Doctor: You’re welcome, Mr. Davies. Remember, we’re in this together. Don’t hesitate to contact the office if you have any questions or concerns before your next appointment.
+
+Patient: I appreciate it.
+
+Doctor: Excellent. Let’s get those orders in.
+
+
+================================================================================
+PATIENT ID: P1003
+================================================================================
+
+Doctor: “Good morning, Ms. Eleanor Vance. It’s good to see you again. Please have a seat. I’m Dr. Ramirez.”
+
+Patient: “Good morning, Doctor. Thanks for seeing me.”
+
+Doctor: “So, let’s start by just going over your history. You’re here today primarily because you’ve been experiencing some persistent fatigue and shortness of breath. Can you tell me a little more about that?”
+
+Patient: “Well, it’s been going on for about six weeks now, really. It started gradually, just feeling a bit tired, but it’s gotten worse. I’m constantly feeling drained, even after a full night’s sleep. And I’ve been getting these episodes of shortness of breath, especially when I’m walking or climbing stairs. It’s not a constant thing, but it comes on suddenly.”
+
+Doctor: “Okay. And you mentioned a history of hypothyroidism and asthma. Can you tell me a bit more about those?”
+
+Patient: “Yes, I’ve had hypothyroidism for about ten years now. I was diagnosed when I was in my early thirties. I’m currently taking Levothyroxine 75 micrograms daily. I’ve always been pretty diligent about taking it. And I have asthma, which I’ve managed with Albuterol inhalers as needed, usually just a puff or two when I have an attack. I haven’t had a serious attack in a while, thankfully.”
+
+Doctor: “Alright. And are you taking any other medications or supplements currently?”
+
+Patient: “Just the Albuterol when I need it. And I take a daily multivitamin.”
+
+Doctor: “Okay. Let’s talk about the fatigue and shortness of breath in more detail. Can you describe the shortness of breath? Is it accompanied by any chest pain, dizziness, or palpitations?”
+
+Patient: “Sometimes there’s a slight tightness in my chest, but no real pain. And occasionally, I feel a bit lightheaded, especially when I’m out of breath. No palpitations that I’ve noticed.”
+
+Doctor: “And what about your asthma – are you noticing any triggers, like dust, pollen, or cold air?”
+
+Patient: “I think it might be a little worse with the pollen this time of year. I’ve been trying to stay indoors more, but it’s hard with the weather.”
+
+Doctor: “Okay. Let’s do a quick examination. I’m going to check your vital signs – your blood pressure, heart rate, and temperature. Then I’ll listen to your lungs and heart.”
+
+(Doctor performs examination – blood pressure 128/82, heart rate 78 bpm, temperature 98.6°F. Auscultation reveals slightly increased breath sounds bilaterally, no wheezing or crackles detected.)
+
+Doctor: “Your vital signs are within normal limits, although your heart rate is slightly elevated. Your lungs sound a little congested, which could be related to the pollen or possibly something else. I’m not hearing any wheezing, which is good. Let’s move on to some questions about your lifestyle. Do you smoke? Do you have any significant stressors in your life?”
+
+Patient: “No, I don’t smoke. And work has been pretty stressful lately – I’m a project manager, and we’re under a tight deadline.”
+
+Doctor: “That’s understandable. Stress can certainly exacerbate respiratory symptoms. Given your symptoms, the slightly congested lung sounds, and your history of both hypothyroidism and asthma, I’m going to order a few tests. I want to rule out other potential causes, such as pneumonia or a viral infection. I’m going to order a chest X-ray, a complete blood count, and a thyroid panel to check your TSH, free T4, and free T3 levels. We’ll also check for eosinophils, as they can be elevated in asthma.”
+
+Patient: “Okay, that sounds good. When can I expect the results?”
+
+Doctor: “The X-ray and blood work should be available within 24-48 hours. Once we have those results, we’ll schedule a follow-up appointment to discuss them. In the meantime, I want to recommend a trial of a bronchodilator – I’m going to prescribe you Salmeterol (Serevent) 25 micrograms twice daily via a spacer. This will help open up your airways and ease your shortness of breath. Continue taking your Albuterol as needed. I also want you to continue with your Levothyroxine as prescribed.  It’s important to maintain consistent thyroid hormone levels.  I’m going to advise you to avoid strenuous activity for now and to monitor your symptoms closely. Keep a diary of your symptoms – when they occur, what seems to trigger them, and how severe they are.”
+
+Patient: “Okay, that makes sense.  Will the Salmeterol change my Levothyroxine dosage?”
+
+Doctor: “Not immediately. We’ll monitor your thyroid levels closely after starting the Salmeterol and adjust your Levothyroxine dosage if needed. It’s a delicate balance.  I’ll also want to discuss stress management techniques with you – perhaps some simple breathing exercises or mindfulness practices.”
+
+Patient: “Okay.  Thank you, Doctor.”
+
+Doctor: “You’re welcome. It’s important to be proactive with your health. We’ll get to the bottom of this. I’ll have the nurse schedule your follow-up appointment for next week. Please call the office if you experience any worsening symptoms before then. Do you have any questions for me at this time?”
+
+Patient: “No, I think that covers everything. Thank you again.”
+
+Doctor: “You’re welcome. Take care, Ms. Vance.”
+
+
+
+================================================================================
+PATIENT ID: P1004
+================================================================================
+
+Doctor: Good morning, Ms. Eleanor Vance. Welcome to the clinic. It’s good to finally meet you. I’m Dr. Ramirez. Please, have a seat.
+
+Patient: Good morning, Doctor. Thank you for seeing me. It’s… a little nerve-wracking, to be honest.
+
+Doctor: I understand completely. That’s why we’re here. So, let’s start with a quick overview. I have your records here – you’re P1004. You’ve been referred to me for evaluation of some chest discomfort you’ve been experiencing. Can you tell me a little bit about what’s been going on?
+
+Patient: Well, it started about three weeks ago. It’s not constant, but it comes and goes. It’s mostly in the center of my chest, like a pressure. Sometimes it’s mild, I can just ignore it, but other times it’s quite uncomfortable. It feels like someone’s sitting on my chest. It usually lasts for about 15 to 20 minutes, and then it just disappears. I thought it was just indigestion at first, but it’s been happening more frequently.
+
+Doctor: Okay. And you mentioned it’s been happening more frequently. Can you describe any other symptoms you’ve noticed alongside the chest pressure? Any shortness of breath, nausea, sweating, dizziness, or palpitations?
+
+Patient: Yes, actually. Sometimes when it’s happening, I get a little bit short of breath. And occasionally, I’ve felt a slight dizziness, especially if I’m moving around. I haven’t had any nausea or sweating, though. I haven’t noticed any palpitations, but I haven’t been paying close attention to that.
+
+Doctor: Alright. Let’s talk about your medical history. You mentioned you have Type 2 Diabetes. How long have you been diagnosed? And what’s your current management like?
+
+Patient: I was diagnosed about eight years ago. I take metformin twice a day, usually in the morning and evening. I try to watch my diet, but it’s… challenging, you know? I’ve gained a little weight recently, which I’m sure isn’t helping. I also take a multivitamin.
+
+Doctor: Good. Maintaining good control of your diabetes is crucial. Do you have any other medical conditions? Any family history of heart disease?
+
+Patient: My father had high blood pressure, and my grandfather had a heart attack when he was in his 60s. My sister has been diagnosed with pre-diabetes.
+
+Doctor: That’s important information. Let’s move on to allergies. Do you have any known allergies to medications or anything else?
+
+Patient: Just a mild sensitivity to penicillin. Nothing serious.
+
+Doctor: Okay. Let’s perform a brief examination. Please lie back on the examination table. (After a brief examination) Okay, your blood pressure is 142/88 – slightly elevated. Your heart rate is 78 beats per minute, regular. Your lungs sound clear. I’m hearing a very faint murmur at the apex of your heart, but it’s difficult to assess fully without further testing.
+
+Doctor: Based on your symptoms, your history, and the examination, I suspect you may be experiencing angina, which is chest pain due to reduced blood flow to the heart muscle. Given your diabetes and family history, it’s important to rule out coronary artery disease.
+
+Patient: Coronary artery disease? That sounds… serious.
+
+Doctor: It can be, but early detection and treatment can make a huge difference. We’re going to need to run some tests to confirm this suspicion. First, I’d like to order an electrocardiogram, or ECG, to assess your heart’s electrical activity. Then, we’ll need to perform a stress test to see how your heart responds to exertion. Finally, I’d like to order a coronary angiogram – a minimally invasive procedure where we inject dye into your coronary arteries to visualize any blockages.
+
+Patient: A coronary angiogram… that sounds quite involved.
+
+Doctor: It is, but it’s the most definitive way to determine the extent of any blockages. We’ll discuss all the options and answer any questions you have. In the meantime, I’m going to prescribe a low-dose aspirin – 81 milligrams, once a day – to help prevent blood clots. We’ll also discuss lifestyle modifications – diet, exercise, and smoking cessation if you smoke.
+
+Patient: Okay.
+
+Doctor: I’m also going to prescribe a beta-blocker, metoprolol, 25 milligrams twice a day. This will help slow your heart rate and reduce the workload on your heart. We’ll monitor your blood pressure closely.
+
+Patient: What about my metformin?
+
+Doctor: We’ll continue with the metformin for now, but we’ll need to carefully monitor your blood sugar levels. Controlling your diabetes is crucial for managing your heart health. We’ll schedule a follow-up appointment in two weeks to review the results of the tests and discuss the next steps.
+
+Patient: Okay, Doctor. Thank you.
+
+Doctor: You’re welcome. It’s important to remember that we’re working together to address this. Please keep a detailed record of your symptoms – when they occur, how long they last, and any associated symptoms. Don’t hesitate to contact the office if you have any concerns before our next appointment. We’ll also send you some educational materials about angina and coronary artery disease. Do you have any questions for me at this time?
+
+Patient: No, I think that covers everything for now. Thank you again, Doctor.
+
+Doctor: You’re very welcome, Ms. Vance. We’ll get to the bottom of this.
+
+
