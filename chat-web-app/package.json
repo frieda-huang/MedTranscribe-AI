@@ -12,6 +12,7 @@
         "seed": "ts-node --compiler-options {\"module\":\"CommonJS\"} prisma/seed.ts"
     },
     "dependencies": {
+        "@ai-sdk/react": "^1.2.0",
         "@neondatabase/serverless": "^0.10.4",
         "@prisma/client": "^6.5.0",
         "@radix-ui/react-collapsible": "^1.1.3",
